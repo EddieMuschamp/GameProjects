@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Portfolio\\Projects\\GameProgrammingAssessment\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\User\\Portfolio\\Projects\\C\u002B\u002BGames\\ObjectDodgeMinigame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4C7F4B-4FF3-4A13-9A90-09B1EE7D667F}|GameProgrammingAssessment\\GameProgrammingAssessment.vcxproj|C:\\Users\\User\\Portfolio\\Projects\\C\u002B\u002BGames\\ObjectDodgeMinigame\\GameProgrammingAssessment\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC4C7F4B-4FF3-4A13-9A90-09B1EE7D667F}|GameProgrammingAssessment\\GameProgrammingAssessment.vcxproj|solutionrelative:GameProgrammingAssessment\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Portfolio\\Projects\\C\u002B\u002BGames\\ObjectDodgeMinigame\\GameProgrammingAssessment\\Enemy.cpp",
+              "RelativeDocumentMoniker": "GameProgrammingAssessment\\Enemy.cpp",
+              "ToolTip": "C:\\Users\\User\\Portfolio\\Projects\\C\u002B\u002BGames\\ObjectDodgeMinigame\\GameProgrammingAssessment\\Enemy.cpp",
+              "RelativeToolTip": "GameProgrammingAssessment\\Enemy.cpp",
+              "ViewState": "AgIAADcAAAAAAAAAAAAIwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T13:58:37.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
