@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Portfolio\\Projects\\GameOfLife\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Portfolio\\Projects\\C\u002B\u002BGames\\GameOfLife\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9DD6ACD-3FBD-4BE2-ADEB-6E01D74B9BFF}|GameOfLife\\GameOfLife.vcxproj|C:\\Users\\User\\Portfolio\\Projects\\GameOfLife\\GameOfLife\\GameOfLife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B9DD6ACD-3FBD-4BE2-ADEB-6E01D74B9BFF}|GameOfLife\\GameOfLife.vcxproj|C:\\Users\\User\\Portfolio\\Projects\\C\u002B\u002BGames\\GameOfLife\\GameOfLife\\GameOfLife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B9DD6ACD-3FBD-4BE2-ADEB-6E01D74B9BFF}|GameOfLife\\GameOfLife.vcxproj|solutionrelative:GameOfLife\\GameOfLife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GameOfLife.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Portfolio\\Projects\\GameOfLife\\GameOfLife\\GameOfLife.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Portfolio\\Projects\\C\u002B\u002BGames\\GameOfLife\\GameOfLife\\GameOfLife.cpp",
               "RelativeDocumentMoniker": "GameOfLife\\GameOfLife.cpp",
-              "ToolTip": "C:\\Users\\User\\Portfolio\\Projects\\GameOfLife\\GameOfLife\\GameOfLife.cpp",
+              "ToolTip": "C:\\Users\\User\\Portfolio\\Projects\\C\u002B\u002BGames\\GameOfLife\\GameOfLife\\GameOfLife.cpp",
               "RelativeToolTip": "GameOfLife\\GameOfLife.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAIwJYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-02T11:20:46.578Z",
               "EditorCaption": ""
